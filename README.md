@@ -20,7 +20,7 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 - [Software Standards](#software-standards)
     - [DO-178](#do-178)
     - [DO-254](#do-254)
-
+    - [ARINC 653](#arinc-653)
 - [Requirements Engineering](#requirements-engineering)
     - [Rational DOORS](#rational-doors)
 
@@ -40,6 +40,20 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 - [Books](#books)
 
 - [Magazines](#magazines)
+
+## OS
+### RTOS
+- [WindRiver VxWorks](https://experience.windriver.com/redefining-rtos/p/1?utm_source=google&utm_medium=sem&utm_campaign=vp-dg-emea-vhs-sem-vxworks-exact-brand-07012021&gclid=CjwKCAjwuYWSBhByEiwAKd_n_lSSQ0QQVo927BXSAWz4XRgsQHJ5ZWa15bQpYQf-yZrEuaC3ZjWj0RoCXbQQAvD_BwE) Industry leader RTOS.
+- [Lynx OS-178](https://www.lynx.com/products/lynxos-178-do-178c-certified-posix-rtos) hard real-time partitioning OS and certified DO-178B/C DAL A.
+- [DDC-I DEOS](https://www.ddci.com/products_deos_do_178c_arinc_653/) DO178C DAL A verified OS. 
+- [INTEGRITY](https://www.ghs.com/products/rtos/integrity.html)  Flagship of Green Hills software operating systems.
+
+
+- `2020` [Interference Analysis of Multicore Shared Resources with a Commercial Avionics RTOS](https://link.springer.com/chapter/10.1007/3-540-45828-X_11)
+- `2019` [Virtual Integration in Avionics Systems-RTOS](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.2019.00678.x)
+- `2019` [Critical vulnerabilities to remotely compromise VxWorks, the most popular RTOS](https://info.armis.com/rs/645-PDC-047/images/Urgent11%20Technical%20White%20Paper.pdf) ![pdf]
+- `2007` [A Comparison of Partitioning Operating Systems for Integrated Systems](https://link.springer.com/chapter/10.1007/978-3-540-75101-4_33)
+- `2002` [Formal Modeling and Analysis of Advanced Scheduling Features in an Avionics RTOS]() ![pdf]
 
 ## Software Standards
 ### DO-178
