@@ -84,3 +84,14 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 - [Flying Magazine](https://www.flyingmag.com/)
 - [Aeroplane](https://www.key.aero/aeroplanemonthly)
 
+[video]: media/icons/video.png "video"
+[awesome]: media/icons/awesome.png "awesome"
+[blog]: media/icons/blog.png "blog"
+[book]: media/icons/book.png "book"
+[github]: media/icons/github.png "github"
+[pdf]: media/icons/pdf.png "pdf"
+[podcast]: media/icons/podcast.png "podcast"
+[search]: media/icons/search.png "search"
+[stackoverflow]: media/icons/stackoverflow.png "stackoverflow"
+[student]: media/icons/student.png "student"
+[warning]: media/icons/warning.png "warning"
