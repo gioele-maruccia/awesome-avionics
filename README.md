@@ -50,6 +50,9 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 ## Software Standards
 ### DO-178
 - [DO-178C](https://en.wikipedia.org/wiki/DO-178C) - Is the primary document with software considerations in airborne systems and equipment certification.
+- [DO-254]
+- [ARINC 653]
+
 
 ## Software Development
 ### Programming Languages
