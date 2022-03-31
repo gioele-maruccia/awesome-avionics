@@ -23,6 +23,7 @@ A curated list of avionics awesome resources. Everything you need to know to be 
   - [DO-254](#do-254)
   - [ARINC 653](#arinc-653)
 - [Requirements Engineering](#requirements-engineering)
+  - [DALs](#dals) 
   - [Rational DOORS](#rational-doors)
 - [Software Development](#software-development)
   - [Programming Languages](#programming-languages)
@@ -32,6 +33,7 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 - [Testing](#testing)
 - [Books](#books)
 - [Magazines](#magazines)
+- [Companies](#companies)
 
 ## OS
 ### RTOS
@@ -49,10 +51,20 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 ## Software Standards
 ### DO-178
 - [DO-178C](https://en.wikipedia.org/wiki/DO-178C) - Is the primary document with software considerations in airborne systems and equipment certification.
-- [DO-254]
+
+### DO-254
+- [DO-254](https://en.wikipedia.org/wiki/DO-254) - Is the primary document with guidance for the development of airborne electronic hardware.
+- [Training Workshop](https://afuzion.com/private-training/avionics-hardware-do-254-training-class/?gclid=CjwKCAjwopWSBhB6EiwAjxmqDXItJQCzFkBQ8uErGtpMDUjjgVdPttywkhrc3i-8yUtdnjSn8-KvHxoCfOkQAvD_BwE) - A training class for the main aspects for avionics hardware development.
+
+### ARINC 653
 - [ARINC 653]
 
+## Requirements Engineering
+### DALs
+- [DAL](https://en.wikipedia.org/wiki/DO-178C), or Design Assurance Level, defines the amount of rigor that should be applied by the design assurance process based on the contribution to Aircraft Safety.
 
+### Rational DOORS
+[IBM Rational DOORS](https://www.ibm.com/docs/en/ermd/9.6.1?topic=overview-rational-doors) - Top used requirements management tool fo requirements control. 
 ## Software Development
 ### Programming Languages
 - [Ada](https://github.com/ohenley/awesome-ada) - Awesome Ada.
@@ -77,6 +89,24 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 - [Aviation Today](https://www.aviationtoday.com/)
 - [Flying Magazine](https://www.flyingmag.com/)
 - [Aeroplane](https://www.key.aero/aeroplanemonthly)
+
+## Companies
+- [Northrop Grumman](https://www.northropgrumman.com/)
+- [Boeing](https://www.boeing.com/)
+- [Sagetech Avionics](https://sagetech.com/)
+- [Honeywell International Inc.](https://www.honeywell.com/us/en)
+- [Universal Avionics](https://uasc.com/)
+- [Meggitt PLC](https://www.meggitt.com/)
+- [Raytheon Technologies Corporation](https://www.rtx.com/)
+- [Panasonic Avionics](https://www.panasonic.aero/)
+- [FLIR Systems](https://www.flir.eu/)
+- [Collins Aerospace](https://www.collinsaerospace.com/)
+- [BAE Systems](https://www.baesystems.com/en/home)
+- [Curtiss-Wright](https://www.curtisswright.com/)
+- [Safran](https://www.safran-group.com/)
+- [GE Aviation](https://www.geaviation.com/)
+- [L3Harris Technologies, Inc.](https://www.l3harris.com/)
+- [Leonardo Company](https://www.leonardo.com/en/home)
 
 [video]: media/icons/video.png "video"
 [awesome]: media/icons/awesome.png "awesome"
