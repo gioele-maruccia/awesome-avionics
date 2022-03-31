@@ -15,23 +15,22 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 </div>
 
 ## Contents
+
 - [OS](#os)
 - [RTOS](#rtos)
 - [Software Standards](#software-standards)
-    - [DO-178](#do-178)
-    - [DO-254](#do-254)
-    - [ARINC 653](#arinc-653)
+  - [DO-178](#do-178)
+  - [DO-254](#do-254)
+  - [ARINC 653](#arinc-653)
 - [Requirements Engineering](#requirements-engineering)
-    - [Rational DOORS](#rational-doors)
+  - [Rational DOORS](#rational-doors)
 - [Software Development](#software-development)
-    - [Programming Languages](#programming-languages)
-    - [Frameworks](#scripting-and-frameworks)
-    - [Matlab](#matlab)
-    - [Model Based Design](#model-based-design)
+  - [Programming Languages](#programming-languages)
+  - [Frameworks](#scripting-and-frameworks)
+  - [Matlab](#matlab)
+  - [Model Based Design](#model-based-design)
 - [Testing](#testing)
-
 - [Books](#books)
-
 - [Magazines](#magazines)
 
 ## OS
