@@ -37,7 +37,7 @@ A curated list of avionics awesome resources. Everything you need to know to be 
 ### RTOS
 - [WindRiver VxWorks](https://experience.windriver.com/redefining-rtos/p/1?utm_source=google&utm_medium=sem&utm_campaign=vp-dg-emea-vhs-sem-vxworks-exact-brand-07012021&gclid=CjwKCAjwuYWSBhByEiwAKd_n_lSSQ0QQVo927BXSAWz4XRgsQHJ5ZWa15bQpYQf-yZrEuaC3ZjWj0RoCXbQQAvD_BwE) Industry leader RTOS.
 - [Lynx OS-178](https://www.lynx.com/products/lynxos-178-do-178c-certified-posix-rtos) hard real-time partitioning OS and certified DO-178B/C DAL A.
-- [DDC-I DEOS](https://www.ddci.com/products_deos_do_178c_arinc_653/) DO178C DAL A verified OS. 
+- [DDC-I DEOS](https://www.ddci.com/products_deos_do_178c_arinc_653/) DO178C DAL A verified OS.
 - [INTEGRITY](https://www.ghs.com/products/rtos/integrity.html)  Flagship of Green Hills software operating systems.
 
 
