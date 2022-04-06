@@ -23,12 +23,9 @@ A curated list of avionics awesome resources. Everything you need to know to be 
   - [DO-254](#do-254)
   - [ARINC 653](#arinc-653)
 - [Requirements Engineering](#requirements-engineering)
-  - [DALs](#dals) 
-  - [Rational DOORS](#rational-doors)
 - [Software Development](#software-development)
   - [Programming Languages](#programming-languages)
   - [Frameworks](#scripting-and-frameworks)
-  - [Matlab](#matlab)
   - [Model Based Design](#model-based-design)
 - [Testing](#testing)
 - [Certifications](#certifications)
@@ -58,11 +55,11 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 - [ARINC 653](https://en.wikipedia.org/wiki/ARINC_653) - Is a software specification for space and time partitioning in safety-critical avionics real-time operating systems (RTOS).
 - [IEC 61508](https://en.wikipedia.org/wiki/IEC_61508) - International standard consisting of methods on how to apply, design, deploy and mantain autmatic protection systems called safety-related systems.
 ## Requirements Engineering
-### DALs
 - [DAL](https://en.wikipedia.org/wiki/DO-178C), or Design Assurance Level, defines the amount of rigor that should be applied by the design assurance process based on the contribution to Aircraft Safety.
+- [10 Practises for DO-178C Compliance](https://qracorp.com/aerospace-requirements-guide/) - Aerospace Requirements Guide and checklist: 10 Essential Best Practises for Assuring Compliance with DO-178C.
 
-### Rational DOORS
-[IBM Rational DOORS](https://www.ibm.com/docs/en/ermd/9.6.1?topic=overview-rational-doors) - Top used requirements management tool fo requirements control. 
+### Tools
+- [IBM Rational DOORS](https://www.ibm.com/docs/en/ermd/9.6.1?topic=overview-rational-doors) - Top used requirements management tool fo requirements control.
 
 ## Software Development
 ### Coding Guidelines
@@ -80,6 +77,15 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 
 ### Model Based Design
 - [Simulink](https://it.mathworks.com/products/simulink.html) - Main page.
+
+## Testing
+
+### Unit Tests
+- [Google Test](https://github.com/google/googletest) - Google's test framework for C++.
+- [Fake Function Framework](https://github.com/meekrosoft/fff) - Micro framework for creating fake C functions for tests.
+
+### Static Analysis
+- [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
 
 ## Certifications
 
